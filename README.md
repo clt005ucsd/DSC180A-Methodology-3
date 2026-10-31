@@ -1,2 +1,3 @@
 # DSC180A-Methodology-3
-Dylan Louie
+Clayton Tan
+clt005@ucsd.edu
